@@ -1,4 +1,4 @@
-# Bootstrap::Wysiwyg
+# Bootstrap Wysiwyg Rails
 
 [Bootstrap-wysihtml5][bootstrap-wysiwyg] is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of [wysihtml5][wysihtml5] and [Twitter Bootstrap][twitter-bootstrap].
 

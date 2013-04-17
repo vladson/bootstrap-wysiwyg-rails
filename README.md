@@ -24,7 +24,7 @@ Or install it yourself as:
 
 Require bootstrap-wysiwyg in your app/assets/application.js file
 
-//= require bootstrap-wysiwyg
+    //= require bootstrap-wysiwyg
 
 ## Contributing
 

@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = ""
   spec.license       = "MIT"
 
-  spec.files = Dir["{lib,vendor}/**/*"] + ["LICENSE", "Rakefile", "README.md"]
+  spec.files = Dir["{lib,vendor}/**/*"] + ["LICENSE.txt", "Rakefile", "README.md"]
   spec.require_paths = ["lib"]
 
   spec.add_dependency 'railties', '>= 3.1'

@@ -10,7 +10,7 @@
 
 Add this line to your application's Gemfile:
 
-    gem 'bootstrap-wysiwyg'
+    gem 'bootstrap-wysiwyg-rails'
 
 And then execute:
 

@@ -1,6 +1,10 @@
 # Bootstrap::Wysiwyg
 
-TODO: Write a gem description
+[Bootstrap-wysihtml5][bootstrap-wysiwyg] is a javascript plugin that makes it easy to create simple, beautiful wysiwyg editors with the help of [wysihtml5][wysihtml5] and [Twitter Bootstrap][twitter-bootstrap].
+
+[bootstrap-wysiwyg]: https://github.com/jhollingworth/bootstrap-wysihtml5
+[wysihtml5]: https://github.com/xing/wysihtml5
+[twitter-bootstrap]: http://twitter.github.com/bootstrap
 
 ## Installation
 
@@ -18,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Require bootstrap-wysiwyg in your app/assets/application.js file
+
+//= require bootstrap-wysiwyg
 
 ## Contributing
 

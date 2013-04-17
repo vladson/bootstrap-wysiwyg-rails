@@ -1,11 +1,11 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'bootstrap/wysiwyg/version'
+require 'bootstrap-wysiwyg-rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "bootstrap-wysiwyg-rails"
-  spec.version       = Bootstrap::Wysiwyg::VERSION
+  spec.version       = BootstrapWysiwygRails::VERSION
   spec.authors       = ["Vladislav Bogomolov"]
   spec.email         = ["vladson4ik@gmail.com"]
   spec.description   = %q{Bootstrap wysiwyg gem for rails}

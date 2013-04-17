@@ -6,6 +6,8 @@
 [wysihtml5]: https://github.com/xing/wysihtml5
 [twitter-bootstrap]: http://twitter.github.com/bootstrap
 
+For customizing and more - look at js repo
+
 ## Installation
 
 Add this line to your application's Gemfile:

@@ -14,17 +14,25 @@ Add this line to your application's Gemfile:
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
-Or install it yourself as:
+Be sure to have all dependencies in your project. They include
 
-    $ gem install bootstrap-wysiwyg
+    jquery
+    twitter-bootstrap
+    jquery.hotkeys
+
+They where not included in gem dependencies because you already may have them in your assets somehow.
 
 ## Usage
 
 Require bootstrap-wysiwyg in your app/assets/application.js file
 
     //= require bootstrap-wysiwyg
+
+Initialize it on element
+
+    $('#editor').wysiwyg()
 
 ## Contributing
 

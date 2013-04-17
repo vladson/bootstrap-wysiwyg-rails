@@ -2,7 +2,9 @@ require "bootstrap/wysiwyg/version"
 
 module Bootstrap
   module Wysiwyg
-    class Rails < ::Engine
+    module Rails
+      class Engine < ::Rails::Engine
+      end
     end
   end
 end

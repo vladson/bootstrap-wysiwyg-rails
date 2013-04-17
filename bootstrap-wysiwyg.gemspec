@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'bootstrap/wysiwyg/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "bootstrap-wysiwyg"
+  spec.name          = "bootstrap-wysiwyg-rails"
   spec.version       = Bootstrap::Wysiwyg::VERSION
   spec.authors       = ["Vladislav Bogomolov"]
   spec.email         = ["vladson4ik@gmail.com"]
